@@ -1,0 +1,13 @@
+{
+    "name": "devdojo/calculator",
+    "description": "simple calculator",
+    "type": "library",
+    "license": "MIT","authors": [
+        {
+            "name": "Md Alauddin Al-Amin",
+            "email": "shakeelcse09@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
